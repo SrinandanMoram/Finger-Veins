@@ -102,14 +102,3 @@ Final Year B.Tech Project – \[BVCITS/JNTUK]
 
 This project is licensed under the terms of the `LICENSE` file.
 
-```
-
----
-
-Let me know if:
-- You want a `requirements.txt` file created from your current environment.
-- You want instructions for packaging it into an `.exe`.
-- You’re using a GUI framework like `tkinter` (to mention it explicitly).
-
-Ready to generate any of that!
-```
