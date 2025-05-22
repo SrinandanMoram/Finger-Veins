@@ -85,11 +85,16 @@ Also ensure:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Team Members
 
-**\[Your Name]**
-Final Year B.Tech Project – \[Your College/University Name]
-Supervisor: \[Optional]
+This project was developed as part of a final year engineering project by:
+
+- **[Sri Nandan Moram]** – [Team Lead]
+- **[Prasanna Surisetti]** – [Team Member]
+- **[Padmaja Kadali]** – [Team Member]
+- **[Sasi Kiran Podalada]** – [Team Member]
+
+Final Year B.Tech Project – \[BVCITS/JNTUK]
 
 ---
 
