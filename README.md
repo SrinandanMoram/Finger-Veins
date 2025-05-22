@@ -1,8 +1,3 @@
-Thanks for the clarification and screenshot! Here's an updated **`README.md`** tailored exactly to your project structure and requirements:
-
----
-
-```markdown
 # 🔒 Finger Vein Recognition System
 
 A **Deep Learning-Based Finger Vein Recognition System** for secure and reliable user authentication using CNN. The system supports **user registration and login**, after which it automatically redirects to the main vein recognition interface.
